@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DrillYourSkill.
+👋 Hi, I’m @DrillYourSkill.
 
 
-class DrillYourSkill:
-    
     def __init__(self):
         self.role        = "AI Enthusiast"
         self.languages   = ["Python"]
