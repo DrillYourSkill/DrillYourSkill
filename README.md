@@ -6,7 +6,7 @@
         self.languages   = ["Python"]
         self.focus       = ["AI", "LLMs", "Agents", "ML", "Vector DBs"]
 
-    def current_mission(self):
+    def myself(self):
         return "think, reason and learn💡"
 <!---
 DrillYourSkill/DrillYourSkill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
